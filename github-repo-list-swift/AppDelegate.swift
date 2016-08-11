@@ -9,6 +9,8 @@
 import UIKit
 import OHHTTPStubs
 
+//cmd opt shift k = clean build folder 
+
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
